@@ -1,4 +1,4 @@
-![MasterHead](https://e1.pxfuel.com/desktop-wallpaper/571/625/desktop-wallpaper-coding-motivation-programming-quotes.jpg)
+
 
 <h1 align="center">Hi 👋, I'm Divya Bhavsar</h1>
 <h3 align="center">A passionate frontend Devloper</h3>
